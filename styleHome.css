@@ -1,0 +1,84 @@
+body{
+    text-align: center;
+    background-color: ghostwhite;
+    color: gray;
+}
+h1{
+    
+    font-weight: bolder;
+    color: rgb(43, 49, 54);
+    
+}
+h2{
+    font-weight: bolder ;
+    text-align: center;
+    color: rgb(43, 49, 54);
+}
+.boundless{
+    color: coral;
+    font-size: small;
+    font-weight: bolder;
+}
+.data{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.blog{
+    background-repeat: no-repeat;
+    height: 100%;
+    column-width: 100%;
+    text-align: center;
+    height: 400px;
+}
+.testimonials{
+    border-top-style: solid;
+    border-right: none;
+    border-left: none;
+    border-bottom: none;
+    background-color: rgb(240, 243, 245);
+    padding: 20px;
+    font-size: 15px;
+    text-align: left;
+    margin-bottom: 50px;
+}
+.footer{
+    background-color: rgb(43, 49, 54);
+    color: white;
+    padding: 50px;
+    text-align: left;
+}
+
+#box{
+    margin-top: -100px; 
+    padding-bottom: 50px;
+    font-weight: bold;
+
+}
+#clients{
+    padding-top: 50px;
+}
+#playbutton{
+    color: coral;
+    font-size: 80px;
+}
+#gamepad{
+    color: pink
+}
+#bookmark{
+    color: blue
+}
+#firefox{
+    color: green
+}
+#fire{
+    color:goldenrod
+}
+#leaf{
+    color: orangered
+}
+#binoculars{
+    color: cyan
+}
+#whychoose{
+    padding-bottom: 100px;
+}
