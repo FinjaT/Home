@@ -47,6 +47,13 @@ h2{
     padding: 50px;
     text-align: left;
 }
+.buttons{
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    color: white;
+}
 
 #box{
     margin-top: -100px; 
